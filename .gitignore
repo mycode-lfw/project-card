@@ -5,9 +5,9 @@ __MACOSX/
 .AppleDouble
 .LSOverride
 Icon[
-]
+] 
 
-# File che può contenere variabili sensibili
+# File che può contenere variabili sensibili:
 .env
 
 # Resource forks
