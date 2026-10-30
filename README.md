@@ -35,4 +35,4 @@ Non servono dipendenze né build.
 3. Il sito sarà disponibile su `https://<tuo-username>.github.io/<nome-repo>/`.
 
 ## Licenza
-Gaia Moschetto
+Gaia Moschetto & Company
